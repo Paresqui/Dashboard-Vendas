@@ -7,5 +7,5 @@ Neste projeto, desenvolvi um relatório de vendas utilizando a ferramenta Micros
 
 <p align="left"><img src="Images/img.png" ></p>
 
-### Gráfico de Árvore Hierárquica
+### * Gráfico de Árvore Hierárquica
 <p align="center"><img src="Images/img02.png" ></p>
